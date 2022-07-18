@@ -11,7 +11,6 @@
   - [Installation](#electric_plug-installation)
   - [Tools](#package-tools)
   - [Commands](#electric_plug-commands)
-- [File Structure](#file_folder-file-structure)
 - [Resources](#page_facing_up-resources)
 - [Gallery](#camera-gallery)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
@@ -47,43 +46,6 @@ $ g++ -std=c++11 metroworks.cpp -o metroworks
 $ ./metroworks
 ```
 
-##  :file_folder: File Structure
-- Add a file structure here with the basic details about files, below is an example.
-
-```
-.
-├── _config.yml
-├── data.txt
-├── fare.csv
-├── Fare data
-│   └── Fare Matrix Delhi Metro.xlsx
-├── finalmap.dot
-├── graph.png
-├── graphvizdotfiles
-│   ├── graph.png
-│   ├── MyGraph
-│   ├── path.png
-│   └── StationId
-├── LICENSE
-├── maps
-│   ├── Delhi Metro System Map.svg
-│   ├── graph.svg
-│   ├── id.svg
-│   └── this graph test signature shape from graphviz.svg
-├── metroworks.cpp
-├── path.png
-├── README.md
-├── Report & Screenshots
-│   ├── DS_MetroWork_Project.pdf
-│   ├── Screenshot from 2018-11-27 03-53-27.png
-│   ├── Screenshot from 2018-11-27 03-53-32.png
-│   └── Screenshot from 2018-11-27 03-57-26.png
-├── stations.txt
-├── train1.png
-└── train.png
-
-4 directories, 25 files
-```
 
 ##  :page_facing_up: Resources
 
@@ -107,11 +69,5 @@ $ ./metroworks
   <img src="./graph.png" width="800">
 </p>
 
-
-## :star2: Credit/Acknowledgment
-[![Contributors](https://img.shields.io/github/contributors/code-monk08/metroworks?style=for-the-badge)](https://github.com/code-monk08/metroworks/graphs/contributors)
-
-##  :lock: License
-[![License](https://img.shields.io/github/license/code-monk08/metroworks?style=for-the-badge)](https://github.com/code-monk08/metroworks/blob/master/LICENSE)
 
 
