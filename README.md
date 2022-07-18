@@ -53,18 +53,21 @@ $ ./metroworks
 
 ##  :camera: Gallery
 <p align="center">
+  <h3> On Startup: </h3>
   <img src="./images/screenshots/1.png" width="800">
 </p>
 
 <p align="center">
+  <h3> Entering two stations gives us distance, stations, and fare: </h3>
   <img src="./images/screenshots/2.png" width="800">
 </p>
 
 <p align="center">
+  <h3> Shortest route between entered stations: </h3>
   <img src="./images/screenshots/3.png" width="800">
 </p>
 
-### Current Delhi Metro Stations (In our Program)
+<h3> Current Delhi Metro Stations in program: </h3>
 <p align="center">
   <img src="./graph.png" width="800">
 </p>
